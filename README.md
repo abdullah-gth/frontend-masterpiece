@@ -1,14 +1,16 @@
-# Welcome to your Lovable project
+# Frontend Masterpiece
+
+see this whole fronend website design es mn section sequence mn nhi hn tuh asani ky leye numbring dy di hy 12345678 total sections hn tum ny just yeh whole website ka fronend he bnana hy same esa he and also extra things taret kr keh remove kr dena just make fronedn website design
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/5db486e4-49ae-4217-b918-c0044c19ebd0).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +22,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
