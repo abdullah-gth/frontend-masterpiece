@@ -138,7 +138,7 @@ function Index() {
             ["Astra gave us a roadmap we could understand and a platform that our teams love using.", "Dana Brooks", "COO, Northstar"],
             ["The team handled a complex migration without disrupting a single customer workflow.", "Mika Chen", "VP Technology, Helio"],
             ["We finally have reliable data at the speed our decisions require.", "Owen Reed", "Director, Field & Co."],
-          ].map(([quote, name, role]) => <figure key={name}><Quote /><blockquote>“{quote}”</blockquote><figcaption><span className="avatar">{name[0]}</span><div><strong>{name}</strong><small>{role}</small></div></figcaption></figure>)}</div>
+          ].map(([quote, name, role]) => <figure key={name}><Quote /><blockquote>“{quote}”</blockquote><figcaption><span className="avatar">{name?.charAt(0)}</span><div><strong>{name}</strong><small>{role}</small></div></figcaption></figure>)}</div>
         </div>
       </section>
 
